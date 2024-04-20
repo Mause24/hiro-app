@@ -1,0 +1,57 @@
+{
+    "root": true,
+    "extends": "@react-native-community",
+    "ignorePatterns": ["*.js"],
+    "plugins": ["prettier"],
+    "rules": {
+        "react-native/no-inline-styles": "warn",
+        "@typescript-eslint/no-unused-vars": "warn",
+        "react-hooks/rules-of-hooks": "off",
+        "react-hooks/exhaustive-deps": "off",
+        "prettier/prettier": [
+            "warn",
+            {},
+            {
+                "parser": "flow"
+            }
+        ],
+        "semi": ["warn", "never"],
+        "quotes": ["warn", "double"],
+        "no-alert": "warn",
+        "prefer-const": "warn",
+        "no-var": "error",
+        "no-shadow": "off",
+        "no-trailing-spaces": "warn",
+        "space-before-blocks": "warn",
+        "space-in-parens": "warn",
+        "no-multi-spaces": "warn",
+        "no-duplicate-imports": "warn",
+        "arrow-spacing": "warn",
+        "no-useless-escape": "off",
+        "curly": ["warn", "multi-line"],
+        "comma-dangle": [
+            "warn",
+            {
+                "objects": "always-multiline",
+                "imports": "always-multiline",
+                "exports": "always-multiline",
+                "arrays": "always-multiline"
+            }
+        ],
+        "react/function-component-definition": [
+            "error",
+            {
+                "namedComponents": "arrow-function",
+                "unnamedComponents": "arrow-function"
+            }
+        ],
+        "@typescript-eslint/explicit-function-return-type": [
+            "error",
+            {
+                "allowExpressions": true
+            }
+        ],
+        "no-console": "error",
+        "linebreak-style": ["warn", "windows"]
+    }
+}

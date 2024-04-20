@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-Bold.ttf",
+      "sha1": "d8939303ea3b9b1fe96ceb5172716c9a105c3959"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-BoldItalic.ttf",
+      "sha1": "73827dd43ae20c731e82cc6ceeedca60fa710e90"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-DemiBold.ttf",
+      "sha1": "7cb2826a5b6c0e1df3169f6b67f43ee297ea7f44"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-DemiBoldItalic.ttf",
+      "sha1": "afbbb704d4a9281aa5ae3032fd8e5f599beef49f"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-ExtraLight.ttf",
+      "sha1": "b00eef9be4d8b55b31e758f807becd13ff9d6a54"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-ExtraLightItalic.ttf",
+      "sha1": "a1d755fe9cef6c20fa9708a8fd81bafddba1a677"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-Heavy.ttf",
+      "sha1": "8c73797432edd23d5485b5230822c63401458133"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-HeavyItalic.ttf",
+      "sha1": "f5d73e39dcd79618812c4ceb14e19a73d9019240"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-Italic.ttf",
+      "sha1": "7fa5343aac5d79d69641b05c92264b0df485f137"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-Light.ttf",
+      "sha1": "9512cc95f084d6393951ab01ea4f6420e729a77a"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-LightItalic.ttf",
+      "sha1": "e3905ce66b5cc11a282ab8240fc3e0bc912effd8"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-Regular.ttf",
+      "sha1": "1780e37cde518402417514a3a20f224abc8bd7fa"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-Thin.ttf",
+      "sha1": "6d615f800f5e4a79eb8f926c7eab7c2c059eb19b"
+    },
+    {
+      "path": "src/Assets/Fonts/XpressRounded/XpressRounded-ThinItalic.ttf",
+      "sha1": "680474d1edeafd2c171aee57190f73bde7b9d9ed"
+    }
+  ]
+}

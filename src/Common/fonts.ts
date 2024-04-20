@@ -1,0 +1,16 @@
+export const FONTS = {
+    XpressRoundedBold: "XpressRounded-Bold",
+    XpressRoundedBoldItalic: "XpressRounded-BoldItalic",
+    XpressRoundedDemiBold: "XpressRounded-DemiBold",
+    XpressRoundedDemiBoldItalic: "XpressRounded-DemiBoldItalic",
+    XpressRoundedExtraLight: "XpressRounded-ExtraLight",
+    XpressRoundedExtraLightItalic: "XpressRounded-ExtraLightItalic",
+    XpressRoundedHeavy: "XpressRounded-Heavy",
+    XpressRoundedHeavyItalic: "XpressRounded-HeavyItalic",
+    XpressRoundedItalic: "XpressRounded-Italic",
+    XpressRoundedLight: "XpressRounded-Light",
+    XpressRoundedLightItalic: "XpressRounded-LightItalic",
+    XpressRoundedRegular: "XpressRounded-Regular",
+    XpressRoundedThin: "XpressRounded-Thin",
+    XpressRoundedThinItalic: "XpressRounded-ThinItalic",
+}
